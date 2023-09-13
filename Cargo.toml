@@ -1,0 +1,9 @@
+[package]
+name = "membw"
+version = "0.1.0"
+authors = ["Simon J. Bale"]
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+
